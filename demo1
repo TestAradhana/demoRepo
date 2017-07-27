@@ -2,8 +2,12 @@ Demo1
 
 Adding some more code to Demo 1
 
+<<<<<<< HEAD
 
 And more code 
 
 
 Some more testing code
+=======
+and more code
+>>>>>>> 2df1302327ad1840e647bee3d228a818049559e7
